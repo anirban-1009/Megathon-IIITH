@@ -1,0 +1,12 @@
+.secrets
+/__pycache__/
+/.mgvenv/
+/.ipynb_checkpoints/
+Image_Detection/inception_v3_weights_tf_dim_ordering_tf_kernels.h5
+Image_Detection/mobilenet_v2.h5
+Image_Detection/resnet50_coco_best_v2.1.0.h5
+Image_Detection/resnet50_imagenet_tf.2.0.h5
+Image_Detection/traffic.mp4
+Image_Detection/traffic1.mp4
+Image_Detection/Untitled.ipynb
+Image_Detection/DenseNet-BC-121-32.h5
